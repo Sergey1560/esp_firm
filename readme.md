@@ -18,7 +18,7 @@
 
 ![Подключение модуля](./esp_connection.png)
 
-Более подробно про подключение у [MKS](https://github.com/makerbase-mks/MKS-WIFI) п
+Более подробно про подключение у [MKS](https://github.com/makerbase-mks/MKS-WIFI)
 
 ## Что прошивать
 
